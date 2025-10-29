@@ -30,7 +30,7 @@
 
 1. Клонуйте репозиторій:
    ```
-   git clone [https://github.com/dp-knu/web-module1](https://github.com/dp-knu/web-module1.git)
+   git clone https://github.com/dp-knu/web-module1.git
    ```
 
 2. Відкрийте `index.html` у браузері або локальному сервері (наприклад, Live Server у VS Code).
